@@ -1,0 +1,32 @@
+{
+  "name": "@ixiaer/icon-ionicons",
+  "version": "1.0.0",
+  "description": "The ionicons icon font for web apps everywhere.",
+  "scripts": {
+    "icon": "ixiaer-icon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ixiaer/icon-ionicons.git"
+  },
+  "keywords": [
+    "app",
+    "icon",
+    "ionicons",
+    "font",
+    "svg",
+    "ttf",
+    "eot",
+    "woff",
+    "woff2"
+  ],
+  "author": "ixiaer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ixiaer/icon-ionicons/issues"
+  },
+  "homepage": "https://github.com/ixiaer/icon-ionicons#readme",
+  "devDependencies": {
+    "@ixiaer/icon": "^1.0.2"
+  }
+}

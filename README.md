@@ -1,2 +1,9 @@
 # icon-ionicons
-Ionicons can be used out of the box in React, Vue, Angular etc. 
+
+???
+<link rel="stylesheet" type="text/css" href="assets/ionicons.css" />
+<!-- use icon -->
+<i class="ionicons ios-add" />
+
+???
+<img src="icons/ios-add.svg" style="color: red;" width="50px" />
