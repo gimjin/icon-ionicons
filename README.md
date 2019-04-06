@@ -1,5 +1,8 @@
 [![Powered By @ixiaer/icon](https://img.shields.io/github/package-json/dependency-version/ixiaer/icon-ionicons/dev/@ixiaer/icon.svg)](https://www.npmjs.com/package/@ixiaer/icon)
 
+> If you like this project, please reward a star.
+> Thank you 🙏
+
 # 📦 Installation
 
 To install *@ixiaer/icon-ionicons*
