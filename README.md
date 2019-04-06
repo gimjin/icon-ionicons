@@ -1,4 +1,4 @@
-[![Powered By @ixiaer/icon](https://img.shields.io/npm/dependency-version/@ixiaer/icon-ionicons/dev/@ixiaer/icon.svg)](https://www.npmjs.com/package/@ixiaer/icon)
+[![Powered By @ixiaer/icon](https://img.shields.io/github/package-json/dependency-version/ixiaer/icon-ionicons/dev/@ixiaer/icon.svg)](https://www.npmjs.com/package/@ixiaer/icon)
 
 # 📦 Installation
 
