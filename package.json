@@ -18,7 +18,10 @@
     "ttf",
     "eot",
     "woff",
-    "woff2"
+    "woff2",
+    "vue",
+    "react",
+    "angular"
   ],
   "author": "ixiaer",
   "license": "MIT",
@@ -27,6 +30,9 @@
   },
   "homepage": "https://github.com/ixiaer/icon-ionicons#readme",
   "devDependencies": {
-    "@ixiaer/icon": "^1.0.2"
+    "@commitlint/cli": "^7.5.2",
+    "@commitlint/config-conventional": "^7.5.0",
+    "@ixiaer/icon": "^1.0.2",
+    "husky": "^1.3.1"
   }
 }
