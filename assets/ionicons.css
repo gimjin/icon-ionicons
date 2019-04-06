@@ -1,18 +1,38 @@
 @font-face {
   font-family: "ionicons";
-  src: url("ionicons.woff?e3fff7f2286fe903e294e7d36a3e2679") format("woff"),
-url("ionicons.ttf?e3fff7f2286fe903e294e7d36a3e2679") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  src: url("ionicons.eot?8cc20bfaa10f9842f7080a2615584902?#iefix") format("embedded-opentype"),
+url("ionicons.woff2?8cc20bfaa10f9842f7080a2615584902") format("woff2"),
+url("ionicons.woff?8cc20bfaa10f9842f7080a2615584902") format("woff"),
+url("ionicons.ttf?8cc20bfaa10f9842f7080a2615584902") format("truetype");
 }
 
-/* stylelint-disable font-family-no-missing-generic-family-keyword */
 .ionicons {
-  font-family: "ionicons" !important;
+  font-family: "ionicons";
+  font-weight: normal;
   font-style: normal;
-  font-weight: normal !important;
+  display: inline-block;
+  vertical-align: middle;
+  line-height: 1;
+  text-transform: none;
+  letter-spacing: normal;
+  word-wrap: normal;
+  white-space: nowrap;
+  direction: ltr;
+
+  /* Support for all WebKit browsers. */
   -webkit-font-smoothing: antialiased;
+
+  /* Support for Safari and Chrome. */
+  text-rendering: optimizeLegibility;
+
+  /* Support for Firefox. */
   -moz-osx-font-smoothing: grayscale;
+
+  /* Support for IE. */
+  font-feature-settings: "liga";
 }
-/* stylelint-enable */
 
 .ios-add-circle-outline::before {
   content: "\f101";

@@ -10,9 +10,9 @@ module.exports = {
   font: {
     name: 'ionicons',
     icons: 'icons/*.svg',
-    template: 'icon.template.hbs',
+    template: 'icon-font.hbs',
     fontsDest: 'assets',
     cssDest: 'assets',
-    fontType: ['ttf', 'woff']
+    fontType: ['eot', 'ttf', 'woff', 'woff2']
   }
 }

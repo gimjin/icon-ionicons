@@ -1,9 +1,8 @@
-[![Powered By @ixiaer/icon](https://img.shields.io/github/package-json/dependency-version/ixiaer/icon-ionicons/dev/@ixiaer/icon.svg)](https://www.npmjs.com/package/@ixiaer/icon)
+[![Powered By @ixiaer/icon](https://img.shields.io/github/package-json/dependency-version/ixiaer/icon-ionicons/dev/@ixiaer/icon.svg)](https://github.com/ixiaer/icon)
 
-> If you like this project, please reward a star.
-> Thank you 🙏
+> If you like this project, please reward a star. Thank you 🙏
 
-# 📦 Installation
+## 📦 Installation
 
 To install *@ixiaer/icon-ionicons*
 
@@ -11,7 +10,7 @@ To install *@ixiaer/icon-ionicons*
 $ npm i @ixiaer/icon-ionicons
 ```
 
-# 💎 Usage
+## 💎 Usage
 
 ```javascript
 // Webpack
@@ -29,7 +28,7 @@ import '@ixiaer/icon-ionicons/assets/ionicons.css'
 <i class="ionicons md-add" />
 ```
 
-### 🔍 How to find the icon name ?
+#### 🔍 How to find the icon name ?
 
 ```bash
 # Mac
@@ -40,7 +39,7 @@ $ xdg-open node_modules/@ixiaer/icon-ionicons/icons
 $ start node_modules\@ixiaer\icon-ionicons\icons
 ```
 
-# 🚸 Demos (to be the continue)
+## 🚸 Demos (to be the continue)
 
 | Browser | Vue | React | angular |
 | :---: | :---: | :---: | :---: |
