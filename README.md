@@ -39,7 +39,7 @@ $ xdg-open node_modules/@ixiaer/icon-ionicons/icons
 $ start node_modules\@ixiaer\icon-ionicons\icons
 ```
 
-## 🚸 Demos (to be the continue)
+## 🚸 Demos
 
 | Browser | Vue | React | angular |
 | :---: | :---: | :---: | :---: |
