@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/ixiaer/icon-ionicons.git"
   },
+  "files": ["assets"],
   "keywords": [
     "ionicons",
     "svg-sprites",
