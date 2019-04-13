@@ -9,7 +9,7 @@ module.exports = {
    */
   font: {
     name: 'ionicons',
-    icons: 'icons/*.svg',
+    icons: 'ionicons/src/svg/*.svg',
     template: 'icon-font.hbs',
     fontsDest: 'assets',
     cssDest: 'assets',

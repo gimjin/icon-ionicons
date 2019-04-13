@@ -28,16 +28,7 @@ import '@ixiaer/icon-ionicons/assets/ionicons.css'
 <i class="ionicons md-add" />
 ```
 
-#### 🔍 How to find the icon name ?
-
-```bash
-# Mac
-$ open node_modules/@ixiaer/icon-ionicons/icons
-# Linux
-$ xdg-open node_modules/@ixiaer/icon-ionicons/icons
-# Windows
-$ start node_modules\@ixiaer\icon-ionicons\icons
-```
+Find the [icon name](https://github.com/ionic-team/ionicons/tree/master/src/svg).
 
 ## 🚸 Demos
 
