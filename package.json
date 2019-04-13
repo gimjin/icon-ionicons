@@ -11,10 +11,13 @@
     "url": "git+https://github.com/ixiaer/icon-ionicons.git"
   },
   "keywords": [
-    "app",
-    "icon",
     "ionicons",
+    "svg-sprites",
+    "svg-icons",
+    "webfont",
+    "icon",
     "font",
+    "css",
     "svg",
     "ttf",
     "eot",
