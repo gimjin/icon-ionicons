@@ -22,7 +22,7 @@ import 'assets/styles/ionicons.css'
 
 ```html
 <!-- Use icons -->
-<i class="ionicons-airplay"></i>
-<i class="ionicons-edit"></i>
+<i class="ionicons-ios-heart"></i>
+<i class="ionicons-ios-alarm"></i>
 ```
 [Example link](https://ixiaer.github.io/icon-ionicons/example.html)
