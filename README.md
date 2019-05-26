@@ -1,37 +1,28 @@
 [![Powered By @ixiaer/icon](https://img.shields.io/github/package-json/dependency-version/ixiaer/icon-ionicons/dev/@ixiaer/icon.svg)](https://github.com/ixiaer/icon)
 
-> If you like this project, please reward a star. Thank you 🙏
-
-## 📦 Installation
-
-To install *@ixiaer/icon-ionicons*
+## 📦 Compiling
 
 ```bash
-$ npm i @ixiaer/icon-ionicons
+$ icon font -n ionicons -i 'ionicons/src/svg/*.svg'
+# Or alias package.json
+$ npm run icon
 ```
 
 ## 💎 Usage
 
 ```javascript
 // Webpack
-import '@ixiaer/icon-ionicons/assets/ionicons.css'
+import 'assets/styles/ionicons.css'
 ```
 
 ```html
 <!-- Or Browser -->
-<link rel="stylesheet" type="text/css" href="@ixiaer/icon-ionicons/assets/ionicons.css" />
+<link rel="stylesheet" type="text/css" href="assets/styles/ionicons.css" />
 ```
 
 ```html
 <!-- Use icons -->
-<i class="ionicons ios-add" />
-<i class="ionicons md-add" />
+<i class="ionicons-airplay"></i>
+<i class="ionicons-edit"></i>
 ```
-
-Find the [icon name](https://github.com/ionic-team/ionicons/tree/master/src/svg).
-
-## 🚸 Demos
-
-| Browser | Vue | React | angular |
-| :---: | :---: | :---: | :---: |
-| [![Browser](https://cdn.svgporn.com/logos/chrome.svg)](https://github.com/ixiaer/icon-demos) | [![Vue](https://cdn.svgporn.com/logos/vue.svg)](https://github.com/ixiaer/icon-demos) | [![React](https://cdn.svgporn.com/logos/react.svg)](https://github.com/ixiaer/icon-demos) | [![angular](https://cdn.svgporn.com/logos/angular-icon.svg)](https://github.com/ixiaer/icon-demos) |
+[Example link](https://ixiaer.github.io/icon-ionicons/example.html)

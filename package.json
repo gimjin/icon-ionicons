@@ -1,16 +1,14 @@
 {
   "name": "@ixiaer/icon-ionicons",
   "version": "1.2.0",
-  "description": "The ionicons icon font for web apps everywhere.",
+  "description": "Example",
   "scripts": {
-    "icon": "ixiaer-icon",
-    "release": "standard-version"
+    "icon": "icon font -n ionicons -i 'ionicons/src/svg/*.svg'"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ixiaer/icon-ionicons.git"
   },
-  "files": ["assets"],
   "keywords": [
     "ionicons",
     "svg-sprites",
@@ -37,8 +35,7 @@
   "devDependencies": {
     "@commitlint/cli": "^7.5.2",
     "@commitlint/config-conventional": "^7.5.0",
-    "@ixiaer/icon": "^1.1.0",
-    "husky": "^1.3.1",
-    "standard-version": "^5.0.2"
+    "@ixiaer/icon": "^1.1.2",
+    "husky": "^1.3.1"
   }
 }
