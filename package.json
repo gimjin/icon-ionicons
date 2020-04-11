@@ -3,7 +3,7 @@
   "version": "1.2.0",
   "description": "Example",
   "scripts": {
-    "icon": "icon font -n ionicons -i 'ionicons/src/svg/*.svg'"
+    "bootstrap": "git submodule init && git submodule update && npm install"
   },
   "repository": {
     "type": "git",
